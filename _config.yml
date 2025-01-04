@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Enbo"
+title                    : "Enbo's homepage"
 title_separator          : "-"
 name                     : &name "Enbo Huang"
 description              : &description "personal description"
-url                      : https://lovemusiceb.github.io/homepage/
+url                      : https://academicpages.github.io # https://lovemusiceb.github.io/homepage/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
