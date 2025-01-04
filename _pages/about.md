@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Computer Science from Sun Yat-sen University, specializing in human parsing, image composition, and operating systems. Currently, I serve as a lecturer at the School of Computer and Information Engineering at Nanning Normal University, where I am dedicated to teaching and advancing research in my field.
+I am Enbo Huang, holding a Ph.D. in Computer Science from Sun Yat-sen University, with a specialization in human parsing, person image composition, and operating systems. Currently, I serve as a lecturer at the School of Computer and Information Engineering at Nanning Normal University, where I am dedicated to teaching and advancing research in my field.
 
 A data-driven personal website
 ======
