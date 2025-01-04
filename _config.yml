@@ -12,7 +12,7 @@ title                    : "Enbo's homepage"  # 网站的标题
 title_separator          : "-"            # 标题之间的分隔符
 name                     : &name "Enbo Huang"  # 定义一个别名
 description              : &description "personal description"  # 定义一个别名
-url                      : https://github.com/lovemusiceb/homepage.github.io  # https://academicpages.github.io # 网站的基础 URL，包括主机名和协议
+url                      : https://lovemusiceb.github.io  # https://academicpages.github.io # 网站的基础 URL，包括主机名和协议
 baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"   # 网站的子路径，网站部署在子目录下
 repository               : "academicpages/academicpages.github.io" # GitHub 仓库的路径，通常用于生成源代码链接等功能
 
