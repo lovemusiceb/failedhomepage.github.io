@@ -21,9 +21,9 @@ author:
   # Biographic information
   avatar           : "profile.png"    头像的图片文件名
   name             : "Enbo Huang"
-  pronouns         : # example: "he"  
+  pronouns         : "he/him"  
   bio              : "A Ph.D in Computer Science"
-  location         : "China"
+  location         : "Nanning China"
   employer         : "Nanning Normal University"
   uri              : # URL
   email            : "hebscitech@outlook.com" 
