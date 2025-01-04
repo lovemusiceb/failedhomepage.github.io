@@ -16,19 +16,17 @@ url                      : https://lovemusiceb.github.io  # https://academicpage
 baseurl                  : "" # the subpath of your site, e.g. "/blog"   # 网站的子路径，网站部署在子目录下
 repository               : "lovemusiceb/lovemusiceb.github.io" # GitHub 仓库的路径，通常用于生成源代码链接等功能
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author - 控制侧边栏中显示的作者内容。如果字段为空，相应的图标和链接将不会显示。可以通过编辑 /_includes/author-profile.html 进一步自定义。
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile.png"    头像的图片文件名
+  name             : "Enbo Huang"
+  pronouns         : # example: "he"  
+  bio              : "A Ph.D in Computer Science"
+  location         : "China"
+  employer         : "Nanning Normal University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hebscitech@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
