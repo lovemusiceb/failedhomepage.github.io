@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. "
+title                    : "Huang / Dr. "
 title_separator          : "-"
 name                     : &name "Enbo Huang"
 description              : &description "personal description"
